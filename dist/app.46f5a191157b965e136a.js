@@ -68,15 +68,17 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
 
 /**
  * Created by wenba20160163 on 17/6/1.
  */
-const a = 123;
+var a = 123;
 console.log(a);
 console.log(1);
-
 
 /***/ })
 /******/ ]);
